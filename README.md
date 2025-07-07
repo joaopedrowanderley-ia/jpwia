@@ -25,5 +25,5 @@ Sou João Pedro Wanderley, especialista em IA e Ciência de Dados com foco em ap
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaopedrowanderley)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-wanderley-4417801b5/)
 - ✉️ jpwia25@gmail.com
